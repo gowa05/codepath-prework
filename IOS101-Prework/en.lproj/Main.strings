@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Enter"; ObjectID = "0Ox-L1-L9A"; */
+"0Ox-L1-L9A.configuration.title" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0Ox-L1-L9A"; */
+"0Ox-L1-L9A.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Computer Lab Asisstant"; ObjectID = "bVl-Rd-MIm"; */
+"bVl-Rd-MIm.text" = "Computer Lab Asisstant";
+
+/* Class = "UILabel"; text = "Tenzin Jhangowa"; ObjectID = "dsd-23-YeP"; */
+"dsd-23-YeP.text" = "Tenzin Jhangowa";
+
+/* Class = "UILabel"; text = "Queens College"; ObjectID = "wy0-vb-Si9"; */
+"wy0-vb-Si9.text" = "Queens College";
